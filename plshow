@@ -1,0 +1,299 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tv-wp_POLSAT HD" tvg-name="Polsat HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/60.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",Polsat HD
+http://api.planetapl.tv/playTV/5576475/53256776/60.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVN HD" tvg-name="TVN HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/79.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",TVN HD
+http://api.planetapl.tv/playTV/5576475/53256776/79.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT 2 HD" tvg-name="Polsat 2 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/57.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",Polsat 2 HD
+http://api.planetapl.tv/playTV/5576475/53256776/57.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVN 7 HD" tvg-name="TVN SIEDEM HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/81.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",TVN SIEDEM HD
+http://api.planetapl.tv/playTV/5576475/53256776/81.m3u8
+#EXTINF:-1 tvg-id="teleman_TVP 1" tvg-name="TVP 1 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/90.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",TVP 1 HD
+http://api.planetapl.tv/playTV/5576475/53256776/90.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVP 2 HD" tvg-name="TVP 2 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/91.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",TVP 2 HD
+http://api.planetapl.tv/playTV/5576475/53256776/91.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVN Style HD" tvg-name="TVN Style HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/82.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",TVN Style HD
+http://api.planetapl.tv/playTV/5576475/53256776/82.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVP Kultura" tvg-name="TVP Kultura" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/87.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",TVP Kultura
+http://api.planetapl.tv/playTV/5576475/53256776/87.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVP 3" tvg-name="TVP 3" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/92.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",TVP 3
+http://api.planetapl.tv/playTV/5576475/53256776/92.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TV 4 HD" tvg-name="TV 4" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/75.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",TV 4
+http://api.planetapl.tv/playTV/5576475/53256776/75.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TV 6 HD" tvg-name="TV 6" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/108.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",TV 6
+http://api.planetapl.tv/playTV/5576475/53256776/108.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TV Republika" tvg-name="TV Republica" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/77.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",TV Republica
+http://api.planetapl.tv/playTV/5576475/53256776/77.m3u8
+#EXTINF:-1 tvg-id="tv-wp_BBC First" tvg-name="BBC First" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/6.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",BBC First
+http://api.planetapl.tv/playTV/5576475/53256776/6.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Fokus TV HD" tvg-name="FokusTV" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/100.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",FokusTV
+http://api.planetapl.tv/playTV/5576475/53256776/100.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Food Network HD" tvg-name="Food Network HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/182.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",Food Network HD
+http://api.planetapl.tv/playTV/5576475/53256776/182.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Kuchnia+ HD" tvg-name="Kuchnia+ HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/43.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",Kuchnia+ HD
+http://api.planetapl.tv/playTV/5576475/53256776/43.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVS" tvg-name="TVS" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/93.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",TVS
+http://api.planetapl.tv/playTV/5576475/53256776/93.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Eurosport 1 HD" tvg-name="Eurosport HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/27.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Eurosport HD
+http://api.planetapl.tv/playTV/5576475/53256776/27.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Eurosport 2 HD" tvg-name="Eurosport 2 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/28.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Eurosport 2 HD
+http://api.planetapl.tv/playTV/5576475/53256776/28.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT Sport News HD" tvg-name="Polsat Sport News" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/66.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Polsat Sport News
+http://api.planetapl.tv/playTV/5576475/53256776/66.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT Sport" tvg-name="Polsat Sport HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/64.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Polsat Sport HD
+http://api.planetapl.tv/playTV/5576475/53256776/64.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT Sport Extra HD" tvg-name="Polsat Sport Extra" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/65.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Polsat Sport Extra
+http://api.planetapl.tv/playTV/5576475/53256776/65.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT Sport Fight HD" tvg-name="Polsat Sport Fight HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/196.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Polsat Sport Fight HD
+http://api.planetapl.tv/playTV/5576475/53256776/196.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVP Sport HD" tvg-name="TVP Sport HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/89.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",TVP Sport HD
+http://api.planetapl.tv/playTV/5576475/53256776/89.m3u8
+#EXTINF:-1 tvg-id="tv-wp_CANAL+ Sport HD" tvg-name="CANAL+ Sport HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/12.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",CANAL+ Sport HD
+http://api.planetapl.tv/playTV/5576475/53256776/12.m3u8
+#EXTINF:-1 tvg-id="tv-wp_CANAL+ Sport 2 HD" tvg-name="CANAL+ Sport 2 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/13.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",CANAL+ Sport 2 HD
+http://api.planetapl.tv/playTV/5576475/53256776/13.m3u8
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="Polsat Sport Premium 1 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/150.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Polsat Sport Premium 1 HD
+http://api.planetapl.tv/playTV/5576475/53256776/150.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT Sport Premium 2" tvg-name="Polsat Sport Premium 2 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/170.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Polsat Sport Premium 2 HD
+http://api.planetapl.tv/playTV/5576475/53256776/170.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Eleven Sports 1 HD" tvg-name="Eleven Sports 1 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/25.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Eleven Sports 1 HD
+http://api.planetapl.tv/playTV/5576475/53256776/25.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Eleven Sports 2 HD" tvg-name="Eleven Sports 2 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/134.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Eleven Sports 2 HD
+http://api.planetapl.tv/playTV/5576475/53256776/134.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Eleven Sports 3 HD" tvg-name="Eleven Sports 3 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/136.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Eleven Sports 3 HD
+http://api.planetapl.tv/playTV/5576475/53256776/136.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Eleven Sports 4 HD" tvg-name="Eleven Sports 4 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/138.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Eleven Sports 4 HD
+http://api.planetapl.tv/playTV/5576475/53256776/138.m3u8
+#EXTINF:-1 tvg-id="tv-wp_FightBox HD" tvg-name="Fight Box HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/29.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Fight Box HD
+http://api.planetapl.tv/playTV/5576475/53256776/29.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Motowizja HD" tvg-name="Motowizja TV" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/48.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Motowizja TV
+http://api.planetapl.tv/playTV/5576475/53256776/48.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Extreme Sports Channel HD" tvg-name="Extreme Sports" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/104.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Extreme Sports
+http://api.planetapl.tv/playTV/5576475/53256776/104.m3u8
+#EXTINF:-1 tvg-id="tv-wp_nSport+ HD" tvg-name="nSport HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/54.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",nSport HD
+http://api.planetapl.tv/playTV/5576475/53256776/54.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Sportklub HD" tvg-name="Sportklub HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/230.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Sportklub HD
+http://api.planetapl.tv/playTV/5576475/53256776/230.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT Sport Premium 3" tvg-name="Polsat Sport Premium 3 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/172.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Polsat Sport Premium 3 HD
+http://api.planetapl.tv/playTV/5576475/53256776/172.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT Sport Premium 4" tvg-name="Polsat Sport Premium 4 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/218.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Polsat Sport Premium 4 HD
+http://api.planetapl.tv/playTV/5576475/53256776/218.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT Sport Premium 5" tvg-name="Polsat Sport Premium 5 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/176.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Polsat Sport Premium 5 HD
+http://api.planetapl.tv/playTV/5576475/53256776/176.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT Sport Premium 6" tvg-name="Polsat Sport Premium 6 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/178.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Sport:",Polsat Sport Premium 6 HD
+http://api.planetapl.tv/playTV/5576475/53256776/178.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT Café HD" tvg-name="Polsat Cafe" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/58.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",Polsat Cafe
+http://api.planetapl.tv/playTV/5576475/53256776/58.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Super Polsat HD" tvg-name="Super Polsat HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/206.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",Super Polsat HD
+http://api.planetapl.tv/playTV/5576475/53256776/206.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT Play HD" tvg-name="Polsat Play HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/63.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",Polsat Play HD
+http://api.planetapl.tv/playTV/5576475/53256776/63.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Polsat Music HD" tvg-name="Polsat Music HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/194.jpg"  group-title="Rozrywka:",Polsat Music HD
+http://api.planetapl.tv/playTV/5576475/53256776/194.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVP Rozrywka" tvg-name="TVP Rozrywka" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/110.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",TVP Rozrywka
+http://api.planetapl.tv/playTV/5576475/53256776/110.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TV Puls HD" tvg-name="TV Puls HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/76.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",TV Puls HD
+http://api.planetapl.tv/playTV/5576475/53256776/76.m3u8
+#EXTINF:-1 tvg-id="TVPuls2.pl" tvg-name="TV Puls 2" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/107.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",TV Puls 2
+http://api.planetapl.tv/playTV/5576475/53256776/107.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVN Turbo HD" tvg-name="TVN Turbo HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/83.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",TVN Turbo HD
+http://api.planetapl.tv/playTV/5576475/53256776/83.m3u8
+#EXTINF:-1 tvg-id="tv-wp_4FUN.TV" tvg-name="4FUN.TV" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/97.jpg"  group-title="Rozrywka:",4FUN.TV
+http://api.planetapl.tv/playTV/5576475/53256776/97.m3u8
+#EXTINF:-1 tvg-id="tv-wp_CBS Reality" tvg-name="CBS Reality" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/115.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",CBS Reality
+http://api.planetapl.tv/playTV/5576475/53256776/115.m3u8
+#EXTINF:-1 tvg-id="tv-wp_HGTV HD" tvg-name="HGTV HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/152.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",HGTV HD
+http://api.planetapl.tv/playTV/5576475/53256776/152.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Disco Polo Music" tvg-name="Disco Polo Music" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/18.jpg"  group-title="Rozrywka:",Disco Polo Music
+http://api.planetapl.tv/playTV/5576475/53256776/18.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TTV HD" tvg-name="TTV" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/160.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",TTV
+http://api.planetapl.tv/playTV/5576475/53256776/160.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Eska TV HD" tvg-name="Eska TV" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/26.jpg"  group-title="Rozrywka:",Eska TV
+http://api.planetapl.tv/playTV/5576475/53256776/26.m3u8
+#EXTINF:-1 tvg-id="tv-wp_FOX HD" tvg-name="Fox HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/148.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",Fox HD
+http://api.planetapl.tv/playTV/5576475/53256776/148.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Eska Rock TV" tvg-name="EskaRock TV" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/38.jpg"  group-title="Rozrywka:",EskaRock TV
+http://api.planetapl.tv/playTV/5576475/53256776/38.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Kino Polska Muzyka" tvg-name="Kino Polska Muzyka" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/42.jpg"  group-title="Rozrywka:",Kino Polska Muzyka
+http://api.planetapl.tv/playTV/5576475/53256776/42.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Lifetime HD" tvg-name="Lifetime HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/45.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",Lifetime HD
+http://api.planetapl.tv/playTV/5576475/53256776/45.m3u8
+#EXTINF:-1 tvg-id="tv-wp_MTV Polska HD" tvg-name="MTV Polska" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/49.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",MTV Polska
+http://api.planetapl.tv/playTV/5576475/53256776/49.m3u8
+#EXTINF:-1 tvg-id="tv-wp_METRO HD" tvg-name="Metro" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/46.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",Metro
+http://api.planetapl.tv/playTV/5576475/53256776/46.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Polo TV" tvg-name="PoloTV" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/106.jpg"  group-title="Rozrywka:",PoloTV
+http://api.planetapl.tv/playTV/5576475/53256776/106.m3u8
+#EXTINF:-1 tvg-id="tv-wp_STARS.TV HD" tvg-name="Stars TV" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/69.jpg"  group-title="Rozrywka:",Stars TV
+http://api.planetapl.tv/playTV/5576475/53256776/69.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TLC HD" tvg-name="TLC HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/72.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Rozrywka:",TLC HD
+http://api.planetapl.tv/playTV/5576475/53256776/72.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT Film HD" tvg-name="Polsat Film HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/59.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",Polsat Film HD
+http://api.planetapl.tv/playTV/5576475/53256776/59.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVP Seriale" tvg-name="TVP Seriale" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/88.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",TVP Seriale
+http://api.planetapl.tv/playTV/5576475/53256776/88.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Ale kino+ HD" tvg-name="Ale Kino! HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/2.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",Ale Kino! HD
+http://api.planetapl.tv/playTV/5576475/53256776/2.m3u8
+#EXTINF:-1 tvg-id="tv-wp_CANAL+ HD" tvg-name="CANAL+ HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/10.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",CANAL+ HD
+http://api.planetapl.tv/playTV/5576475/53256776/10.m3u8
+#EXTINF:-1 tvg-id="tv-wp_CANAL+ Family HD" tvg-name="CANAL+ Family HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/8.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",CANAL+ Family HD
+http://api.planetapl.tv/playTV/5576475/53256776/8.m3u8
+#EXTINF:-1 tvg-id="tv-wp_CANAL+ Film HD" tvg-name="CANAL+ Film HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/9.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",CANAL+ Film HD
+http://api.planetapl.tv/playTV/5576475/53256776/9.m3u8
+#EXTINF:-1 tvg-id="tv-wp_CANAL+ Seriale HD" tvg-name="CANAL+ Seriale" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/11.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",CANAL+ Seriale
+http://api.planetapl.tv/playTV/5576475/53256776/11.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Domo+ HD" tvg-name="DOMO+ HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/202.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",DOMO+ HD
+http://api.planetapl.tv/playTV/5576475/53256776/202.m3u8
+#EXTINF:-1 tvg-id="tv-wp_13 Ulica HD" tvg-name="13 Ulica" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/1.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",13 Ulica
+http://api.planetapl.tv/playTV/5576475/53256776/1.m3u8
+#EXTINF:-1 tvg-id="tv-wp_AMC HD" tvg-name="AMC" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/154.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",AMC
+http://api.planetapl.tv/playTV/5576475/53256776/154.m3u8
+#EXTINF:-1 tvg-id="TVNFabula.pl" tvg-name="TVN Fabula" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/158.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",TVN Fabula
+http://api.planetapl.tv/playTV/5576475/53256776/158.m3u8
+#EXTINF:-1 tvg-id="tv-wp_AXN Spin HD" tvg-name="AXN SPIN HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/198.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",AXN SPIN HD
+http://api.planetapl.tv/playTV/5576475/53256776/198.m3u8
+#EXTINF:-1 tvg-id="tv-wp_AXN HD" tvg-name="AXN" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/98.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",AXN
+http://api.planetapl.tv/playTV/5576475/53256776/98.m3u8
+#EXTINF:-1 tvg-id="tv-wp_AXN Black" tvg-name="AXN Black" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/111.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",AXN Black
+http://api.planetapl.tv/playTV/5576475/53256776/111.m3u8
+#EXTINF:-1 tvg-id="tv-wp_AXN White" tvg-name="AXN White" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/112.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",AXN White
+http://api.planetapl.tv/playTV/5576475/53256776/112.m3u8
+#EXTINF:-1 tvg-id="tv-wp_CBS Europa HD" tvg-name="CBS Europa" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/156.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",CBS Europa
+http://api.planetapl.tv/playTV/5576475/53256776/156.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Cinemax HD" tvg-name="Cinemax HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/14.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",Cinemax HD
+http://api.planetapl.tv/playTV/5576475/53256776/14.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Cinemax2 HD" tvg-name="Cinemax 2 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/116.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",Cinemax 2 HD
+http://api.planetapl.tv/playTV/5576475/53256776/116.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Comedy Central HD" tvg-name="Comedy Central" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/16.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",Comedy Central
+http://api.planetapl.tv/playTV/5576475/53256776/16.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Comedy Central Family HD" tvg-name="Comedy Central Family" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/15.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",Comedy Central Family
+http://api.planetapl.tv/playTV/5576475/53256776/15.m3u8
+#EXTINF:-1 tvg-id="tv-wp_E! Entertainment HD" tvg-name="E! Entertainment" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/204.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",E! Entertainment
+http://api.planetapl.tv/playTV/5576475/53256776/204.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Kino TV" tvg-name="KinoTV" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/30.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",KinoTV
+http://api.planetapl.tv/playTV/5576475/53256776/30.m3u8
+#EXTINF:-1 tvg-id="tv-wp_FilmBox Action" tvg-name="FilmBox Action" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/31.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",FilmBox Action
+http://api.planetapl.tv/playTV/5576475/53256776/31.m3u8
+#EXTINF:-1 tvg-id="FilmboxFamily.pl" tvg-name="FilmBox Family" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/32.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",FilmBox Family
+http://api.planetapl.tv/playTV/5576475/53256776/32.m3u8
+#EXTINF:-1 tvg-id="tv-wp_FilmBox Premium HD" tvg-name="FilmBox Premium" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/33.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",FilmBox Premium
+http://api.planetapl.tv/playTV/5576475/53256776/33.m3u8
+#EXTINF:-1 tvg-id="tv-wp_FilmBox Extra HD" tvg-name="FilmBox Extra HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/200.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",FilmBox Extra HD
+http://api.planetapl.tv/playTV/5576475/53256776/200.m3u8
+#EXTINF:-1 tvg-id="tv-wp_FOX Comedy HD" tvg-name="Fox Comedy" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/105.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",Fox Comedy
+http://api.planetapl.tv/playTV/5576475/53256776/105.m3u8
+#EXTINF:-1 tvg-id="tv-wp_HBO HD" tvg-name="HBO HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/37.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",HBO HD
+http://api.planetapl.tv/playTV/5576475/53256776/37.m3u8
+#EXTINF:-1 tvg-id="tv-wp_HBO2 HD" tvg-name="HBO 2 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/35.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",HBO 2 HD
+http://api.planetapl.tv/playTV/5576475/53256776/35.m3u8
+#EXTINF:-1 tvg-id="tv-wp_HBO3 HD" tvg-name="HBO 3 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/36.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",HBO 3 HD
+http://api.planetapl.tv/playTV/5576475/53256776/36.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Kino Polska HD" tvg-name="Kino Polska" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/41.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",Kino Polska
+http://api.planetapl.tv/playTV/5576475/53256776/41.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Paramount Channel HD" tvg-name="Paramount Channel HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/55.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",Paramount Channel HD
+http://api.planetapl.tv/playTV/5576475/53256776/55.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Romance TV HD" tvg-name="Romance TV" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/67.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",Romance TV
+http://api.planetapl.tv/playTV/5576475/53256776/67.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TNT HD" tvg-name="TNT HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/73.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",TNT HD
+http://api.planetapl.tv/playTV/5576475/53256776/73.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Nat Geo People HD" tvg-name="Nat geo people" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/222.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",Nat geo people
+http://api.planetapl.tv/playTV/5576475/53256776/222.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Epic Drama HD" tvg-name="Epic drama HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/220.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Filmy:",Epic drama HD
+http://api.planetapl.tv/playTV/5576475/53256776/220.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT News HD" tvg-name="Polsat News HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/62.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Informacje:",Polsat News HD
+http://api.planetapl.tv/playTV/5576475/53256776/62.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT News 2" tvg-name="Polsat News 2" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/61.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Informacje:",Polsat News 2
+http://api.planetapl.tv/playTV/5576475/53256776/61.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVN 24 HD" tvg-name="TVN 24 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/80.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Informacje:",TVN 24 HD
+http://api.planetapl.tv/playTV/5576475/53256776/80.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVN 24 Biz" tvg-name="TVN 24 Bis HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/180.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Informacje:",TVN 24 Bis HD
+http://api.planetapl.tv/playTV/5576475/53256776/180.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVP HD" tvg-name="TVP HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/162.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Informacje:",TVP HD
+http://api.planetapl.tv/playTV/5576475/53256776/162.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVP Info HD" tvg-name="TVP Info HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/86.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Informacje:",TVP Info HD
+http://api.planetapl.tv/playTV/5576475/53256776/86.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVP Historia" tvg-name="TVP Historia" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/85.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",TVP Historia
+http://api.planetapl.tv/playTV/5576475/53256776/85.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVP Polonia" tvg-name="TVP Polonia" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/129.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",TVP Polonia
+http://api.planetapl.tv/playTV/5576475/53256776/129.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Adventure HD" tvg-name="Adventure HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/102.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",Adventure HD
+http://api.planetapl.tv/playTV/5576475/53256776/102.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/4.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",Animal Planet HD
+http://api.planetapl.tv/playTV/5576475/53256776/4.m3u8
+#EXTINF:-1 tvg-id="tv-wp_BBC Earth HD" tvg-name="BBC Earth" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/5.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",BBC Earth
+http://api.planetapl.tv/playTV/5576475/53256776/5.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Da Vinci" tvg-name="Da Vinci Learning" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/17.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",Da Vinci Learning
+http://api.planetapl.tv/playTV/5576475/53256776/17.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/19.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",Discovery Channel HD
+http://api.planetapl.tv/playTV/5576475/53256776/19.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Discovery Historia" tvg-name="Discovery Historia" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/20.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",Discovery Historia
+http://api.planetapl.tv/playTV/5576475/53256776/20.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Discovery Life HD" tvg-name="Discovery Life HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/21.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",Discovery Life HD
+http://api.planetapl.tv/playTV/5576475/53256776/21.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Discovery Science HD" tvg-name="Discovery Science HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/22.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",Discovery Science HD
+http://api.planetapl.tv/playTV/5576475/53256776/22.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboXtra.pl" tvg-name="Discovery Turbo Xtra" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/23.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",Discovery Turbo Xtra
+http://api.planetapl.tv/playTV/5576475/53256776/23.m3u8
+#EXTINF:-1 tvg-id="tv-wp_ID HD" tvg-name="Investigation Discovery" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/166.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",Investigation Discovery
+http://api.planetapl.tv/playTV/5576475/53256776/166.m3u8
+#EXTINF:-1 tvg-id="tv-wp_HISTORY HD" tvg-name="HISTORY HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/101.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",HISTORY HD
+http://api.planetapl.tv/playTV/5576475/53256776/101.m3u8
+#EXTINF:-1 tvg-id="H2.pl" tvg-name="H2 HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/34.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",H2 HD
+http://api.planetapl.tv/playTV/5576475/53256776/34.m3u8
+#EXTINF:-1 tvg-id="NatGeoWildHD.pl" tvg-name="Nat Geo Wild" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/50.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",Nat Geo Wild
+http://api.planetapl.tv/playTV/5576475/53256776/50.m3u8
+#EXTINF:-1 tvg-id="tv-wp_National Geographic HD" tvg-name="National Geographic" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/51.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",National Geographic
+http://api.planetapl.tv/playTV/5576475/53256776/51.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Planete+ HD" tvg-name="Planete HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/56.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",Planete HD
+http://api.planetapl.tv/playTV/5576475/53256776/56.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Travel Channel HD" tvg-name="Travel Channel HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/74.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dokumentalny:",Travel Channel HD
+http://api.planetapl.tv/playTV/5576475/53256776/74.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TVP ABC" tvg-name="TVP ABC" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/109.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",TVP ABC
+http://api.planetapl.tv/playTV/5576475/53256776/109.m3u8
+#EXTINF:-1 tvg-id="flu_canal-sport-3-hd" tvg-name="CANAL+ Sport 3" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/226.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",CANAL+ Sport 3
+http://api.planetapl.tv/playTV/5576475/53256776/226.m3u8
+#EXTINF:-1 tvg-id="flu_canal-sport-4-hd" tvg-name="CANAL+ Sport 4" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/228.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",CANAL+ Sport 4
+http://api.planetapl.tv/playTV/5576475/53256776/228.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Boomerang HD" tvg-name="Boomerang HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/7.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",Boomerang HD
+http://api.planetapl.tv/playTV/5576475/53256776/7.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/114.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",Cartoon Network HD
+http://api.planetapl.tv/playTV/5576475/53256776/114.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Disney Channel HD" tvg-name="Disney Channel HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/103.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",Disney Channel HD
+http://api.planetapl.tv/playTV/5576475/53256776/103.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Disney Junior" tvg-name="Disney Junior" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/24.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",Disney Junior
+http://api.planetapl.tv/playTV/5576475/53256776/24.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Disney XD" tvg-name="Disney XD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/99.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",Disney XD
+http://api.planetapl.tv/playTV/5576475/53256776/99.m3u8
+#EXTINF:-1 tvg-id="tv-wp_POLSAT JimJam" tvg-name="JimJam" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/40.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",JimJam
+http://api.planetapl.tv/playTV/5576475/53256776/40.m3u8
+#EXTINF:-1 tvg-id="tv-wp_MiniMini+ HD" tvg-name="Mini Mini" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/47.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",Mini Mini
+http://api.planetapl.tv/playTV/5576475/53256776/47.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Nicktoons HD" tvg-name="Nicktoons HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/208.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",Nicktoons HD
+http://api.planetapl.tv/playTV/5576475/53256776/208.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Nick Jr." tvg-name="Nick Jr." tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/52.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",Nick Jr.
+http://api.planetapl.tv/playTV/5576475/53256776/52.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Nickelodeon" tvg-name="Nickelodeon Polska" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/53.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",Nickelodeon Polska
+http://api.planetapl.tv/playTV/5576475/53256776/53.m3u8
+#EXTINF:-1 tvg-id="tv-wp_teleTOON+ HD" tvg-name="Teletoon+ HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/71.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",Teletoon+ HD
+http://api.planetapl.tv/playTV/5576475/53256776/71.m3u8
+#EXTINF:-1 tvg-id="tv-wp_SCI FI HD" tvg-name="SciFi HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/224.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Dzieci:",SciFi HD
+http://api.planetapl.tv/playTV/5576475/53256776/224.m3u8
+#EXTINF:-1 tvg-id="tv-wp_TV Trwam" tvg-name="TV Trwam" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/78.jpg" catchup="shift" catchup-days="14" timeshift="14"  group-title="Religija:",TV Trwam
+http://api.planetapl.tv/playTV/5576475/53256776/78.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Brazzers TV Europe" tvg-name="Brazzers TV" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/117.png" parent-code="0000" group-title="Erotyka:",Brazzers TV
+http://api.planetapl.tv/playTV/5576475/53256776/117.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Hustler TV" tvg-name="Hustler TV" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/119.jpg" parent-code="0000" group-title="Erotyka:",Hustler TV
+http://api.planetapl.tv/playTV/5576475/53256776/119.m3u8
+#EXTINF:-1 tvg-id="tv-wp_REDLIGHT HD" tvg-name="REDLIGHT HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/127.jpg" parent-code="0000" group-title="Erotyka:",REDLIGHT HD
+http://api.planetapl.tv/playTV/5576475/53256776/127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PassionXXX" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/121.png" parent-code="0000" group-title="Erotyka:",PassionXXX
+http://api.planetapl.tv/playTV/5576475/53256776/121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PinkoTV" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/123.jpg" parent-code="0000" group-title="Erotyka:",PinkoTV
+http://api.planetapl.tv/playTV/5576475/53256776/123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCT Classic" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/125.png" parent-code="0000" group-title="Erotyka:",SCT Classic
+http://api.planetapl.tv/playTV/5576475/53256776/125.m3u8
+#EXTINF:-1 tvg-id="tv-wp_VIVID RED HD" tvg-name="VIVID RED HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/188.jpg" parent-code="0000" group-title="Erotyka:",VIVID RED HD
+http://api.planetapl.tv/playTV/5576475/53256776/188.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Dorcel XXX HD" tvg-name="Dorcel HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/184.jpg" parent-code="0000" group-title="Erotyka:",Dorcel HD
+http://api.planetapl.tv/playTV/5576475/53256776/184.m3u8
+#EXTINF:-1 tvg-id="tv-wp_Private TV HD" tvg-name="Private TV HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/186.jpg" parent-code="0000" group-title="Erotyka:",Private TV HD
+http://api.planetapl.tv/playTV/5576475/53256776/186.m3u8
